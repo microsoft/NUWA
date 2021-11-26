@@ -1,7 +1,7 @@
 
 # Overview
 
-> This is the official repo for the paper: "NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion".
+> This is the official repo for the paper: [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion]{https://arxiv.org/abs/2111.12417}.
 
 ![Overview](assets/overview.gif)
 
