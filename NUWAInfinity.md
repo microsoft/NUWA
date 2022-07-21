@@ -4,7 +4,7 @@
 
 > NUWA-Infinity is a generative model for infinite visual synthesis, which is defined as the task of generating arbitrarily-sized high-resolution images or long-duration videos.
 ![qmlong](assets/nuwa_infinity/qingming/qm.gif)
-[\[Project page\]](https://msra-nuwa-dev.azurewebsites.net/) [\[Paper\]](null)
+[\[Project page\]](https://msra-nuwa-dev.azurewebsites.net/) [\[Paper\]](https://arxiv.org/abs/2207.09814)
 
 ##  Image Outpainting $^{HD}$
 #### Given a certain image, NUWA can extend it into any size and resolution by learning , imagining, and generating new contents.

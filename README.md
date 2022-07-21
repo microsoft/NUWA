@@ -6,6 +6,8 @@ This is the official repo for the following papers:
 
 
 ## Update 2022/7/13: [NUWA-Infinity](NUWAInfinity.md)
+[\[Project page\]](https://msra-nuwa-dev.azurewebsites.net/) [\[Paper\]](https://arxiv.org/abs/2207.09814) 
+
 [NUWA-Infinity](NUWAInfinity.md) is a generative model for infinite visual synthesis, which is defined as the task of generating arbitrarily-sized high-resolution images or long-duration videos.
 <img src="assets/NUWAInfinity.gif" width="800">
  
