@@ -2,7 +2,7 @@ This is the official repo for the following papers:
  
 + [NÜWA: Visual Synthesis Pre-training for Neural visUal World creAtion](https://arxiv.org/abs/2111.12417). (ECCV 2022)
 
-+ [NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis](https://arxiv.org/abs/2207.09814).
++ [NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis](https://arxiv.org/abs/2207.09814). (NeurIPS 2022)
 
 
 ## Update 2022/7/13: [NUWA-Infinity](NUWAInfinity.md)
