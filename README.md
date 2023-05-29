@@ -4,6 +4,8 @@ This is the official repo for the following papers:
 
 + [NUWA-Infinity: Autoregressive over Autoregressive Generation for Infinite Visual Synthesis](https://arxiv.org/abs/2207.09814). (NeurIPS 2022)
 
++ [NUWA-LIP: Language Guided Image Inpainting with Defect-free VQGAN](https://arxiv.org/abs/2202.05009). (CVPR 2023)
+
 + [Learning 3D Photography Videos via Self-supervised Diffusion on Single Images](https://arxiv.org/abs/2302.10781). (IJCAI 2023)
 
 + [NUWA-XL: Diffusion over Diffusion for eXtremely Long Video Generation](https://arxiv.org/abs/2303.12346). (ACL 2023)
